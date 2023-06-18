@@ -1,2 +1,2 @@
-From pengzhile/pandora:1.2.3
+From 2.401.1-lts-jdk11
 MAINTAINER Q
