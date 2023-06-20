@@ -1,2 +1,2 @@
-From jenkins/jenkins:2.401.1-lts-jdk11
+From adams549659584/go-proxy-bingai
 MAINTAINER Q
